@@ -1,0 +1,16 @@
+C:\Users\aslan\source\dz\Contest2\TaskA\bin\Debug\net5.0\TaskA.exe
+C:\Users\aslan\source\dz\Contest2\TaskA\bin\Debug\net5.0\TaskA.deps.json
+C:\Users\aslan\source\dz\Contest2\TaskA\bin\Debug\net5.0\TaskA.runtimeconfig.json
+C:\Users\aslan\source\dz\Contest2\TaskA\bin\Debug\net5.0\TaskA.runtimeconfig.dev.json
+C:\Users\aslan\source\dz\Contest2\TaskA\bin\Debug\net5.0\TaskA.dll
+C:\Users\aslan\source\dz\Contest2\TaskA\bin\Debug\net5.0\ref\TaskA.dll
+C:\Users\aslan\source\dz\Contest2\TaskA\bin\Debug\net5.0\TaskA.pdb
+C:\Users\aslan\source\dz\Contest2\TaskA\obj\Debug\net5.0\TaskA.csproj.AssemblyReference.cache
+C:\Users\aslan\source\dz\Contest2\TaskA\obj\Debug\net5.0\TaskA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aslan\source\dz\Contest2\TaskA\obj\Debug\net5.0\TaskA.AssemblyInfoInputs.cache
+C:\Users\aslan\source\dz\Contest2\TaskA\obj\Debug\net5.0\TaskA.AssemblyInfo.cs
+C:\Users\aslan\source\dz\Contest2\TaskA\obj\Debug\net5.0\TaskA.csproj.CoreCompileInputs.cache
+C:\Users\aslan\source\dz\Contest2\TaskA\obj\Debug\net5.0\TaskA.dll
+C:\Users\aslan\source\dz\Contest2\TaskA\obj\Debug\net5.0\ref\TaskA.dll
+C:\Users\aslan\source\dz\Contest2\TaskA\obj\Debug\net5.0\TaskA.pdb
+C:\Users\aslan\source\dz\Contest2\TaskA\obj\Debug\net5.0\TaskA.genruntimeconfig.cache
